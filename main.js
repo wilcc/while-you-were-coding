@@ -149,9 +149,9 @@ const names = 'Colin|Mesuara|Denis|Wilson|Michael|Patrick|DeAundre|Jumary|Marc|B
 // Don't print the pipes!
 
 
-for (let i = 0; i < names.length; i ++){
-    // console.log('Here today is:')
-    if (names[i]==='|'){
+for (let i = -1; i < names.length; i ++){
+    if (i === -1){console.log('Here today is:')}
+    else if (names[i]==='|'){
         console.log('Here today is:')
     }else 
     console.log(names[i])

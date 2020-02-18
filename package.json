@@ -1,0 +1,23 @@
+{
+  "name": "while-you-were-coding",
+  "version": "1.0.0",
+  "description": "All the directions are in `main.js`. Enjoy!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilcc/while-you-were-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilcc/while-you-were-coding/issues"
+  },
+  "homepage": "https://github.com/wilcc/while-you-were-coding#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
